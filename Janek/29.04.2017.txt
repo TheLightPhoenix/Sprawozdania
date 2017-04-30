@@ -1,0 +1,1 @@
+Uczy³em siê obs³ugi klas w jêzyku c++. Klasy bed¹ niezbêdne do tworzenia naszego projektu.

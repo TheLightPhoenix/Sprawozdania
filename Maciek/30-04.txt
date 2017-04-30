@@ -1,0 +1,1 @@
+Pierwszy program z użyciem OpenCV, tworzenie okna, otwieranie kamery, wyświetlanie obrazu z kamery.

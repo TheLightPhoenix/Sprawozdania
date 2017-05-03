@@ -1,0 +1,1 @@
+Oglądanie poradników na temat programowania w języku C++.

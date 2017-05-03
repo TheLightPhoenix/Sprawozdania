@@ -1,0 +1,1 @@
+Pisanie przyk³adowego programu z wykorzystaniem biblioteki sfml - nauka biblioteki graficznej.

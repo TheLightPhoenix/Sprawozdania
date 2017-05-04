@@ -1,1 +1,1 @@
-Czytalem o funkcjonalnoœci biblioteki graficznej sfml. Zapozna³em siê z dzia³aniem tej biblioteki graficznej.
+Czytalem o funkcjonalnoœci biblioteki graficznej sfml. Zapozna³em siê z dzia³aniem tej biblioteki graficznej.#

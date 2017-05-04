@@ -1,0 +1,1 @@
+Zapoznawanie się z biblioteką OpenCV.

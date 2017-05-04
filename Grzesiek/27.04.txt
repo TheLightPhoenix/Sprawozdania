@@ -1,1 +1,1 @@
-Nauka c++
+Zapoznanie siê z Git, stworzenie repozytorium na sprawozdania, ustalenie celów z zespo³em, po³¹czenie Trello z GitHub

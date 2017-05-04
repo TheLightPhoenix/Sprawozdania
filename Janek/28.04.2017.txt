@@ -1,2 +1,2 @@
 Zapozna³em siê wstêpnie z funkcjonalnoœci¹ narzêdzi pracy w jêzyku c++ i jego obiektowoœci¹.
-Pobra³em potrzebne programy do tworzenia tekstur graficznych (Gimp).
+Pobra³em potrzebne programy do tworzenia tekstur graficznych (Gimp).#

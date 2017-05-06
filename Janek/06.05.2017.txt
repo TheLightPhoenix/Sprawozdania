@@ -1,0 +1,4 @@
+Rozwi¹zanie szelkich problemów z instalacj¹ bibliotek SFML. Stworzenie pierwszego programu testuj¹cego Bibliotekê.
+Test polega³ na otworzeniu okna oraz narysowaniu kropki  w ustalonym kolorze.
+Testy powiod³y siê, cel zosa³ osi¹gniêty. 
+Biblioteka SFML dzia³a prawid³owo na komputerze i jest gotowa do tworzenia pojektów.

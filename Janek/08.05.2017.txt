@@ -1,0 +1,2 @@
+Naprawa biblioteki SFML. Przetestowanie programem z 06.05.2017.
+Testzakoñczy³ siê powodzeniem biblioteka znów dzia³a.

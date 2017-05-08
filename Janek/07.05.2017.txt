@@ -1,0 +1,1 @@
+Biblioteka SFML przesta³a dzia³aæ. Próba naprawy skoñczy³a siê niepowodzeniem.

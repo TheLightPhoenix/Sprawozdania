@@ -1,0 +1,2 @@
+Nauka obiektowoœci jêzyka C++;
+Wstêpne rozmyslenie w³aœciwoœci i metodyki klas w grze, oraz wstêpne roplanowanie iloœci klas w grze - tylko postacie.

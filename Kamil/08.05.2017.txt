@@ -1,0 +1,3 @@
+Stworzyłem pętlę główną gry w pliku main.
+Stworzyłem klasę postaci, którą można sterować w prawo i w lewo.
+Dodałem tło oraz tymczasową grafikę postaci.

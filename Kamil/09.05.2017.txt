@@ -1,0 +1,3 @@
+Znalazłem przykładowe animacje w sieci.
+Załadowałem je jako tekstury dla naszej postaci.
+Postac porusza się, gdy jest bezczynna, a także posiada animację podczas biegu w prawo.

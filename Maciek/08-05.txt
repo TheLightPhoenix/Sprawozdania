@@ -1,0 +1,3 @@
+Stworzenie prototypowego kontrolera.
+Pierwsze testy śledzenia - zmiana kanału.
+Dobór parametrów.

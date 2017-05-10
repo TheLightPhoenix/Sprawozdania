@@ -1,0 +1,1 @@
+Symulacja działania myszki za pomocą kontrolera - przesuwanie kursorem oraz kliknięcie.

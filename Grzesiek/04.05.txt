@@ -1,0 +1,1 @@
+Dalsze tworzenie programu w celu nauki biblioteki SFML

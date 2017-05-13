@@ -1,1 +1,0 @@
-Rozwiazanie problemow z biblioteka SFML

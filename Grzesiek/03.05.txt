@@ -1,1 +1,1 @@
-Tworzenie prostego programu w celu nauki biblioteki SFML
+Konfiguracja biblioteki SFML - naprawa problemu powodowanego przez bledna wersje kompilatora

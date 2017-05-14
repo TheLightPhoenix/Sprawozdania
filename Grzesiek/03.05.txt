@@ -1,0 +1,1 @@
+Konfiguracja biblioteki SFML - naprawa problemu powodowanego przez bledna wersje kompilatora

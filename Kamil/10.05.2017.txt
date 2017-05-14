@@ -1,0 +1,4 @@
+Dodałem animację biegania w lewo oraz bezczynnosci z twarzą postaci skierowaną w lewo.
+Wprowadziłem kontrolę czasu (klatek) przy pomocy klasy clock.
+Przeprojektowałem klasę character.
+Rozpocząłem prace przy programowaniu fizyki skoku przy której napotkałem problem.

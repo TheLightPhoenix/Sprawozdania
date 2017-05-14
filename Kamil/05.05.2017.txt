@@ -1,0 +1,3 @@
+Skonfigurowałem projekt w środowisku Code::Blocks wraz z biblioteką SFML. 
+Przeprowadzilem test sprawdzające poprawność konfiguracji, które zakończyły się pozytywnie.
+Program testowy tworzył okno, w którym wyświetlał powiększające się żółte koło. Praca programu testowego przebiegła bez zastrzeżeń.

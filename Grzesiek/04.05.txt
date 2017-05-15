@@ -1,1 +1,1 @@
-Dalsze rozwiazywanie problemow zwiazanych z biblioteka SFML
+Nauka biblioteki SFML - obsluga wydarzen, wyswietlanie okna

@@ -1,1 +1,1 @@
-Instalacja biblioteki SFML
+Instalacja i konfiguracja biblioteki SFML

@@ -1,0 +1,1 @@
+Utworzenie prostej animacji, która wymaga plików graficznych, aby w nastêpnej kolejnoœci mo¿liwe by³o jej zaimplementowanie w programie.

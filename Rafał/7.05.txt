@@ -1,0 +1,1 @@
+Rozwi¹zywanie konfliktów oraz doskonalenie pracy w œrodowisku GITHUB (instalacja Tortoise Merge jako oprogramowania rozwi¹zuj¹cego konflikty)

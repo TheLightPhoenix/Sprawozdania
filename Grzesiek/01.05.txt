@@ -1,0 +1,1 @@
+Dalsza nauka o bibliotece SFML

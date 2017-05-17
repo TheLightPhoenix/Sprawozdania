@@ -1,0 +1,1 @@
+Instalacja i konfiguracja biblioteki SFML

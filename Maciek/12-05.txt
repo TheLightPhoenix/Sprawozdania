@@ -1,0 +1,1 @@
+Dodanie filtrowania ze względu na pole (wychwytywane będą obiekty tylko mieszczące się w pewnych przedziałach pól)

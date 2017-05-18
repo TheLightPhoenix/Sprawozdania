@@ -1,0 +1,1 @@
+Usuniecie niepotrzebnego kodu, dodanie łatwiejszej opcji wyłącznia okienek, które wyświetlają obraz(z wyłączonym wyświetlaniem działa szybciej)

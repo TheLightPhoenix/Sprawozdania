@@ -1,0 +1,1 @@
+Testowanie filtrowania ze względu na pole oraz dobór odpowiednich parametrów. Udało uzyskać się lepszy efekt - wszcześniej szukany był po prostu obiekt z największym polem, a teraz poprzez odpowiedni dobór pól jakie może mieć kontroler jest leiej wychwytywany.

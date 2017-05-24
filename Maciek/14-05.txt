@@ -1,0 +1,1 @@
+Testy wprowadzonego filtrowania - pomimo obecności lampy wciąż wykrywany był kontroler. Pomimo to wciąż występują złe wychwycenia w jasnych środowiskach.

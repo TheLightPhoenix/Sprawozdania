@@ -1,0 +1,1 @@
+Utworzenie nowej gałęzi w projekcie gry. Jest to gałąź kamerka na której planuję dodać obsługę kamerki do gry, a w między czasie w gałęzi master będzie działająca wersja gry

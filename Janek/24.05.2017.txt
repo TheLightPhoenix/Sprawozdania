@@ -1,0 +1,1 @@
+Wyksportowanie grafiki do plików png gotowych do tworzenia animacji.Tworzenie raportu tygodniowego.

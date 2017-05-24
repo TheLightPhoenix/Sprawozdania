@@ -1,0 +1,1 @@
+Dodanie klasy kamerki do projektu z grą. Łatwa możliwość przełącznania się na myszkę.

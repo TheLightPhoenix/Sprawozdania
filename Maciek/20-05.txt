@@ -1,0 +1,1 @@
+Utworzenie klasy kamerki oraz odpowiednia zamiana wcześniejszego kodu na obiektowy.

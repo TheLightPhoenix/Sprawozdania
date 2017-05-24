@@ -1,0 +1,1 @@
+Dostosowanie projektu z grą do mojego środowiska - zmiana ścieżek

@@ -1,0 +1,1 @@
+Problem z tym, że kursor poruszał się tylko w małym obrębie - częściowo rozwiązany poprzez pomnożenie współrzędnych razy 2.

@@ -1,0 +1,1 @@
+Zdobywanie wiedzy na temat wykrywania okręgów metodą Hougha. Czytanie o funkcji OpenCV HoughCircles oraz jej parametrach.

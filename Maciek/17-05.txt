@@ -1,0 +1,1 @@
+Poprawianie wykrywania okręgów - po zastosowaniu filtracji oraz doborze odpowiednich parametrów na obrazie wychwytywany jest poprawnie kontroler oraz nie ma innych zakłócających okręgów.

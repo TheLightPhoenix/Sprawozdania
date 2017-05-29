@@ -1,0 +1,1 @@
+Pomysł na rozwiązanie problemu - obsługa kamery w osobnym wątku. Zdobycie informacji na temat obsługi wątków w c++11.

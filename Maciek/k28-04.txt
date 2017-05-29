@@ -1,0 +1,1 @@
+Przeczytałem artykuł na temat wykrywania obiektów przy użyciu OpenCV - zbieranie informacji potrzebnych do realizacji obsługi kamery.

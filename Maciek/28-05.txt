@@ -1,0 +1,1 @@
+Dodanie tworzenie nowego wątku do projektu z grą. Ten sposób dał pozytywne efekty - gra działa teraz bez problemów z szybkością taką jak bez obsługi kamerki.

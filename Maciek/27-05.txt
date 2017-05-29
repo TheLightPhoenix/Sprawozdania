@@ -1,0 +1,1 @@
+Implementacja obsługi kamery w nowym wątku w projekcie kamerki.

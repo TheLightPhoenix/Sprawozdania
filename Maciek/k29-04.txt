@@ -1,0 +1,1 @@
+Zbierałem dalsze informacje potrzebne do realizacji obsługi kamery - czytałem o podstawach OpenCV takich jak typ plików Mat oraz tworzenie strumienia kamery.

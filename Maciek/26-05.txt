@@ -1,0 +1,1 @@
+Stworzenie podstawowego wątku, który wywoływał funkcję wypisującą napis. Poprzez detach sprawnienie aby wątek działał w tle.

@@ -1,0 +1,1 @@
+Poprawienie kodu umożliwiającego wyłączenie obługi kamerki i powrót do myszki w projekcie.

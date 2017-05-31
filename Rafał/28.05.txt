@@ -1,0 +1,1 @@
+Ukoñczenie animiacji biegu, eksport animacji do plików odczytywalnych przez program
